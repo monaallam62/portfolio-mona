@@ -7,7 +7,7 @@ function App() {
     <div className="App">
       {/* ==== Header Section ==== */}
       <header className="header">
-        <h1>Mona Allam</h1>
+        <h1>Mona Mohamed Allam</h1>
         <h2>Front-End Developer</h2>
 <div className="social-icons">
   <a href="https://www.linkedin.com/in/mona-allam-675755289/" target="_blank" rel="noreferrer">
