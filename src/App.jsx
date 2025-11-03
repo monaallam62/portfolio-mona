@@ -49,7 +49,10 @@ function App() {
         <div className="project-card">
           <h4>Gharsa</h4>
           <p>
-            A modern web project showcasing interactive design and clean UI built using React and CSS.
+            Gharsa is a web and mobile application that connects sellers, buyers, and merchants in one platform.
+The web version supports all three roles — admin, seller, and buyer — while the mobile app focuses on buyers and sellers.
+The platform allows users to list products, sell or purchase items easily, and rely on an integrated delivery service that ensures fast and safe delivery.
+Gharsa offers a smooth, user-friendly interface designed to make buying and selling effortless and efficient.
           </p>
 <button
   onClick={() =>
